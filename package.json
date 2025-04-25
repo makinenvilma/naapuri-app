@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.4",
     "next": "15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
@@ -30,5 +31,13 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makinenvilma/naapuri-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/makinenvilma/naapuri-app/issues"
+  },
+  "homepage": "https://github.com/makinenvilma/naapuri-app#readme"
 }
